@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
 - [Qqlick]
 - [Michael Zeng](https://github.com/michaelzeng96)
@@ -4431,3 +4431,4 @@
 - [Murat Mermerkaya](https://github.com/muratmer)
 - [Alisa Levin](https://github.com/alisalevin)
 - [Prince Carter](https://github.com/PrinceCarter)
+- [EA]
